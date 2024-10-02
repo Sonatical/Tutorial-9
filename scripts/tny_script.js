@@ -6,7 +6,7 @@
    Tutorial Case
 
    Countdown Clock
-   Author: Christian Hilsgen
+   Author: Christian
    Date:   9/30/2024
 
 */
